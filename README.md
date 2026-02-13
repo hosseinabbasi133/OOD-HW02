@@ -135,3 +135,8 @@ class Logger {
     }
 }
 njdhhdhvhdvhvbdbvhdsvhvhv
+
+
+
+<img width="1024" height="1024" alt="class-diagram" src="https://github.com/user-attachments/assets/26842a64-102f-4446-b485-ee71ea7e0617" />
+
